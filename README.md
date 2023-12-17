@@ -1,25 +1,25 @@
-# AI Town 🏠💻💌
+# Luxe Townhouse 🏠💻💌
 Team Members:
 
 1. Zeeshaan Mohammed
-    University: California State University, Los Angeles
-    Address: 5151 State University Dr, Los Angeles, CA
-    Email: zmohamm6@calstatla.edu
+University: California State University, Los Angeles
+Address: 5151 State University Dr, Los Angeles, CA
+Email: zmohamm6@calstatla.edu
 
 2. Sasank Mukkamala
-    University: California State University, Los Angeles
-    Address: 5151 State University Dr, Los Angeles, CA
-    Email: smukkaam@calstatela.edu
+University: California State University, Los Angeles
+Address: 5151 State University Dr, Los Angeles, CA
+Email: smukkaam@calstatela.edu
 
 3. Zainulabedin Iqbal Qureshi
-    University: California State University, Los Angeles
-    Address: 5151 State University Dr, Los Angeles, CA
-    Email: zquresh@calstatela.edu
+University: California State University, Los Angeles
+Address: 5151 State University Dr, Los Angeles, CA
+Email: zquresh@calstatela.edu
 
 4. Hafiz Raheem
-    University: California State University, Los Angeles
-    Address: 5151 State University Dr, Los Angeles, CA
-    Email: hraheem@calstatela.edu
+University: California State University, Los Angeles
+Address: 5151 State University Dr, Los Angeles, CA
+Email: hraheem@calstatela.edu
 
 AI Town is a virtual town where AI characters live, chat and socialize.
 
