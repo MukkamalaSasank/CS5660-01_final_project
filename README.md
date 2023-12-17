@@ -21,9 +21,9 @@ Team Members:
 - Address: 5151 State University Dr, Los Angeles, CA
 - Email: hraheem@calstatela.edu
 
-AI Town is a virtual town where AI characters live, chat and socialize.
+Luxe Townhouse is a virtual town where AI characters live, chat and socialize.
 
-This project is a deployable starter kit for easily building and customizing your own version of AI town. Inspired by the research paper [_Generative Agents: Interactive Simulacra of Human Behavior_](https://arxiv.org/pdf/2304.03442.pdf).
+This project is a deployable starter kit for easily building and customizing your own version of Luxe Townhouse. Inspired by the research paper [_Generative Agents: Interactive Simulacra of Human Behavior_](https://arxiv.org/pdf/2304.03442.pdf).
 
 The main objective of this project extends beyond its enjoyable nature; it aims to offer a robust platform designed for extension. The backend inherently facilitates shared global state, transactions, and a simulation engine, catering to a spectrum of use cases, ranging from simple projects for experimentation to scalable, multi-player games. Additionally, a secondary goal is to provide a JavaScript/TypeScript framework, addressing a gap in the existing simulators predominantly written in Python, as highlighted in the original paper.
 
